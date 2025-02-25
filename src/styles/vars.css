@@ -1,4 +1,8 @@
 :root {
     /* FONT */
     --font-quicksand: 'quicksand';
+
+    /* COLORS */ 
+    --bg-icon: #131313
+    --bg-arrow-color: #000;
 }
